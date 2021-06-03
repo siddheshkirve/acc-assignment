@@ -1,0 +1,26 @@
+body{
+    margin-top: 70px;
+    padding: 0px;
+}
+.container{
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    flex-direction: column;
+}
+
+.con button{
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.con input{
+    
+    font-size: 20px;
+}
+
+.msg p{
+    font-weight: 500;
+    font-size: 20px;
+}
